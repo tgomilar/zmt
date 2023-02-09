@@ -1,0 +1,225 @@
+{
+  "src/assets/icons/logo.svg": {
+    "file": "_app/immutable/assets/logo-61176068.svg",
+    "src": "src/assets/icons/logo.svg"
+  },
+  "src/assets/icons/icon-video.svg": {
+    "file": "_app/immutable/assets/icon-video-f9b31a51.svg",
+    "src": "src/assets/icons/icon-video.svg"
+  },
+  "src/assets/icons/logos.svg": {
+    "file": "_app/immutable/assets/logos-4fab6b76.svg",
+    "src": "src/assets/icons/logos.svg"
+  },
+  "src/assets/icons/icon-sound.svg": {
+    "file": "_app/immutable/assets/icon-sound-c71cce78.svg",
+    "src": "src/assets/icons/icon-sound.svg"
+  },
+  "src/assets/icons/close.svg": {
+    "file": "_app/immutable/assets/close-79d446bd.svg",
+    "src": "src/assets/icons/close.svg"
+  },
+  "src/assets/icons/arrow-down.svg": {
+    "file": "_app/immutable/assets/arrow-down-c0883748.svg",
+    "src": "src/assets/icons/arrow-down.svg"
+  },
+  "src/assets/icons/arrow-up.svg": {
+    "file": "_app/immutable/assets/arrow-up-01ad6b7a.svg",
+    "src": "src/assets/icons/arrow-up.svg"
+  },
+  "src/assets/backgrounds/ZMT-1-zgodba.webp": {
+    "file": "_app/immutable/assets/ZMT-1-zgodba-a968a38d.webp",
+    "src": "src/assets/backgrounds/ZMT-1-zgodba.webp"
+  },
+  "src/assets/fonts/ZillaSlab-Medium.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-Medium-0c798241.woff2",
+    "src": "src/assets/fonts/ZillaSlab-Medium.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-MediumItalic.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-MediumItalic-c36de3f7.woff2",
+    "src": "src/assets/fonts/ZillaSlab-MediumItalic.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-Regular.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-Regular-f6f2c0ad.woff2",
+    "src": "src/assets/fonts/ZillaSlab-Regular.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-SemiBold.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-SemiBold-2b490dbf.woff2",
+    "src": "src/assets/fonts/ZillaSlab-SemiBold.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-Bold.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-Bold-ef800aa3.woff2",
+    "src": "src/assets/fonts/ZillaSlab-Bold.woff2"
+  },
+  "src/assets/fonts/BebasNeue-Regular.woff2": {
+    "file": "_app/immutable/assets/BebasNeue-Regular-9381a997.woff2",
+    "src": "src/assets/fonts/BebasNeue-Regular.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-Light.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-Light-cd40d3b6.woff2",
+    "src": "src/assets/fonts/ZillaSlab-Light.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-Italic.woff2": {
+    "file": "_app/immutable/assets/ZillaSlab-Italic-8d666887.woff2",
+    "src": "src/assets/fonts/ZillaSlab-Italic.woff2"
+  },
+  "src/assets/fonts/KohinoorBangla-Regular.woff2": {
+    "file": "_app/immutable/assets/KohinoorBangla-Regular-ab91a086.woff2",
+    "src": "src/assets/fonts/KohinoorBangla-Regular.woff2"
+  },
+  "src/assets/fonts/ZillaSlab-Medium.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-Medium-61f59a91.woff",
+    "src": "src/assets/fonts/ZillaSlab-Medium.woff"
+  },
+  "src/assets/fonts/ZillaSlab-MediumItalic.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-MediumItalic-e3ac60be.woff",
+    "src": "src/assets/fonts/ZillaSlab-MediumItalic.woff"
+  },
+  "src/assets/fonts/ZillaSlab-Regular.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-Regular-6dd71ebd.woff",
+    "src": "src/assets/fonts/ZillaSlab-Regular.woff"
+  },
+  "src/assets/fonts/ZillaSlab-SemiBold.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-SemiBold-73596a59.woff",
+    "src": "src/assets/fonts/ZillaSlab-SemiBold.woff"
+  },
+  "src/assets/fonts/ZillaSlab-Bold.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-Bold-658f78ad.woff",
+    "src": "src/assets/fonts/ZillaSlab-Bold.woff"
+  },
+  "src/assets/fonts/ZillaSlab-Light.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-Light-3f5df961.woff",
+    "src": "src/assets/fonts/ZillaSlab-Light.woff"
+  },
+  "src/assets/fonts/ZillaSlab-Italic.woff": {
+    "file": "_app/immutable/assets/ZillaSlab-Italic-511ca1fc.woff",
+    "src": "src/assets/fonts/ZillaSlab-Italic.woff"
+  },
+  "src/assets/fonts/BebasNeue-Regular.woff": {
+    "file": "_app/immutable/assets/BebasNeue-Regular-c14dc37f.woff",
+    "src": "src/assets/fonts/BebasNeue-Regular.woff"
+  },
+  "src/assets/fonts/KohinoorBangla-Regular.woff": {
+    "file": "_app/immutable/assets/KohinoorBangla-Regular-9239eed7.woff",
+    "src": "src/assets/fonts/KohinoorBangla-Regular.woff"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout-f962346a.css",
+    "src": "src/routes/+layout.css"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "_app/immutable/components/error.svelte-02d0268a.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-af43a7fc.js",
+      "_singletons-7011ea7f.js"
+    ]
+  },
+  "src/routes/+layout.js": {
+    "file": "_app/immutable/modules/pages/_layout.js-9cbb603b.js",
+    "src": "src/routes/+layout.js",
+    "isEntry": true,
+    "imports": [
+      "__layout-da46b06b.js"
+    ]
+  },
+  "__layout-da46b06b.js": {
+    "file": "_app/immutable/chunks/_layout-da46b06b.js"
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "_app/immutable/chunks/0-c9698c62.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__layout-da46b06b.js",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-9ee25bc3.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "_app/immutable/chunks/1-f9741638.js",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "_app/immutable/components/pages/_page.svelte-d1ed6c9f.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-af43a7fc.js"
+    ]
+  },
+  "_singletons-7011ea7f.js": {
+    "file": "_app/immutable/chunks/singletons-7011ea7f.js",
+    "imports": [
+      "_index-af43a7fc.js"
+    ]
+  },
+  "_index-af43a7fc.js": {
+    "file": "_app/immutable/chunks/index-af43a7fc.js"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/start-65f541e9.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-af43a7fc.js",
+      "_singletons-7011ea7f.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/nodes/0.js",
+      ".svelte-kit/generated/nodes/1.js",
+      ".svelte-kit/generated/nodes/2.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "_app/immutable/components/pages/_layout.svelte-3628f35a.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-af43a7fc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout-f962346a.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/logo-61176068.svg",
+      "_app/immutable/assets/logos-4fab6b76.svg",
+      "_app/immutable/assets/icon-video-f9b31a51.svg",
+      "_app/immutable/assets/icon-sound-c71cce78.svg",
+      "_app/immutable/assets/close-79d446bd.svg",
+      "_app/immutable/assets/arrow-up-01ad6b7a.svg",
+      "_app/immutable/assets/arrow-down-c0883748.svg",
+      "_app/immutable/assets/ZillaSlab-Medium-0c798241.woff2",
+      "_app/immutable/assets/ZillaSlab-Medium-61f59a91.woff",
+      "_app/immutable/assets/ZillaSlab-Light-cd40d3b6.woff2",
+      "_app/immutable/assets/ZillaSlab-Light-3f5df961.woff",
+      "_app/immutable/assets/ZillaSlab-Italic-8d666887.woff2",
+      "_app/immutable/assets/ZillaSlab-Italic-511ca1fc.woff",
+      "_app/immutable/assets/ZillaSlab-MediumItalic-c36de3f7.woff2",
+      "_app/immutable/assets/ZillaSlab-MediumItalic-e3ac60be.woff",
+      "_app/immutable/assets/ZillaSlab-Regular-f6f2c0ad.woff2",
+      "_app/immutable/assets/ZillaSlab-Regular-6dd71ebd.woff",
+      "_app/immutable/assets/ZillaSlab-SemiBold-2b490dbf.woff2",
+      "_app/immutable/assets/ZillaSlab-SemiBold-73596a59.woff",
+      "_app/immutable/assets/KohinoorBangla-Regular-ab91a086.woff2",
+      "_app/immutable/assets/KohinoorBangla-Regular-9239eed7.woff",
+      "_app/immutable/assets/ZillaSlab-Bold-ef800aa3.woff2",
+      "_app/immutable/assets/ZillaSlab-Bold-658f78ad.woff",
+      "_app/immutable/assets/BebasNeue-Regular-9381a997.woff2",
+      "_app/immutable/assets/BebasNeue-Regular-c14dc37f.woff",
+      "_app/immutable/assets/ZMT-1-zgodba-a968a38d.webp"
+    ]
+  }
+}
